@@ -1,4 +1,4 @@
-
+New ProtonVPN Client | dedicated IP + IKEv2 support is the best ProtonVPN client with dedicated IP and IKEv2 support. Secure and optimized.
 
 
 
