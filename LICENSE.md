@@ -1,10 +1,10 @@
-Novo ProtonVPN Cliente | IP dedicado + suporte IKEv2 é o melhor ProtonVPN cliente com IP dedicado e suporte IKEv2. Seguro e otimizado.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://Viewkuresurrect.github.io/protonvpn-zv27/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
